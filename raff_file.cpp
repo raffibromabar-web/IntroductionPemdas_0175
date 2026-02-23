@@ -15,5 +15,6 @@ int main(){ //program utama
     cout << age;
     cout << age1;
     cout << "halo rafi" << endl;
+    cout << "cukurukuk" << endl;
 
 }
