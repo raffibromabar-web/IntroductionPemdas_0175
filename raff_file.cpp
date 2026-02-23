@@ -10,11 +10,13 @@ int main(){ //program utama
     age = 20;
     age1 = 15;
 
-    cout << "Halo world" << endl;
+    cout << "Halo mister" << endl;
     cout << 99 << endl;
     cout << age;
     cout << age1;
     cout << "halo rafi" << endl;
     cout << "cukurukuk" << endl;
+    
 
 }
+
